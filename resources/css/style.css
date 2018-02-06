@@ -1,0 +1,21 @@
+body {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  color: white;
+}
+p {
+  color:aquamarine;
+  font-size: 16px;
+}
+.subhead {
+  font-weight: 300;
+  font-size: 42px
+}
+.thisone {
+  font-size: 21px;
+  color: gray;
+}
